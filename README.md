@@ -1,4 +1,4 @@
-# LetsUpgrade - Javascript-Assignment
+# LetsUpgrade - Javascript-Assignments
 
 Name : Devpriyadharsan B S
 
