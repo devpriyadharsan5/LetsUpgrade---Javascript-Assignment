@@ -1,4 +1,4 @@
-/*Day - 1 
+/*Day - 2
 Javascript Assignment 1 - Print "*" 5 times vertically*/
 
 str = "";
